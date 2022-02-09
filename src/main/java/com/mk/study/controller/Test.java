@@ -1,6 +1,9 @@
 package com.mk.study.controller;
 
-public class test {
+/**
+ * @author mk
+ */
+public class Test {
     public static void main(String[] args) {
 
         String s = test2(10);
